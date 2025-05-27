@@ -14,7 +14,7 @@ export const categories = [
   {
     _id: "c",
     categoryName: "Digital_Painting",
-    img: "/assets/images/category-images/Digital.jpg",
+    img: "/assets/images/category-images/digital.jpg",
   },
 
   {
