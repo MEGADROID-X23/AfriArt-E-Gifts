@@ -26,7 +26,7 @@ export const Footer = () => {
         <Link to="https://github.com/MEGADROID-X23" target="_blank">
           <ImGithub />
         </Link>
-        <Link to="https://www.linkedin.com/in/aniketsaini65" target="_blank">
+        <Link to="https://www.linkedin.com/in/tochukwu-nwadibia-b8b50734a/" target="_blank">
           <SiLinkedin />
         </Link>
       </div>
