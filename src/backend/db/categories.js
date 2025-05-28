@@ -50,19 +50,19 @@ export const categories = [
   {
     _id: "i",
     categoryName: "Floral",
-    img: "/assets/images/category-images/flower.avif",
+    img: "/assets/images/category-images/Floral6.avif",
   },
 
   {
     _id: "j",
     categoryName: "Animals_and_Pets",
-    img: "/assets/images/category-images/pets.jpg",
+    img: "/assets/images/category-images/Pet1.avif",
   },
 
   {
     _id: "k",
     categoryName: "Black_and_White",
-    img: "/assets/images/category-images/mono.avif",
+    img: "/assets/images/category-images/Black4.avif",
   },
 
   {
