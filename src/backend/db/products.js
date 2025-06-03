@@ -1106,7 +1106,7 @@ export const products = [
   },
   {
     _id: uuid(),
-    name: "Healthy Food",
+    name: "Tropical Shade",
     original_price: 1899,
     discounted_price: 1799,
     category_name: "Oil_Painting",
@@ -1117,7 +1117,7 @@ export const products = [
       "World health day celebration with healthy food.",
     trending: false,
     size: 9,
-    img: "/assets/images/products-images/Oil7.avif",
+    img: "/assets/images/products-images/Oil7.jpg",
   },
   {
     _id: uuid(),
